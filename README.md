@@ -11,4 +11,6 @@ Benefits include the "Standard Savings Account" plus access to "GCash transfer".
 The UpSave account offers the highest interest rate of 4.0%.
 Benefits include the "Standard Savings Account" plus "with Insurance".
 
-Develop a decorator pattern approach that will implement the given UML diagram:
+UML Diagram for the CIMB digital bank.
+![image](https://github.com/brixcyver/decoratorPattern/assets/142380216/3f3ace0a-10bf-4b5c-82c9-4d5a7e9926ef)
+
